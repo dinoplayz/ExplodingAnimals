@@ -1,0 +1,9 @@
+name: ExplodingAnimals
+description: Adds Exploding Animals for a fun server.
+main: com.DinoPlayz.ExplodingAnimals.Plugin
+author: DinoPlayz
+version: 1.0.0
+commands:
+  epig:
+    description: Spawns an exploding pig at the block the player is looking at.
+    usage: /epig
