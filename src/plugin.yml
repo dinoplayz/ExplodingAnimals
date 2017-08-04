@@ -7,3 +7,6 @@ commands:
   epig:
     description: Spawns an exploding pig at the block the player is looking at.
     usage: /epig
+  explodingpig:
+    description: Spawns an exploding pig at the block the player is looking at.
+    usage: /explodingpig
